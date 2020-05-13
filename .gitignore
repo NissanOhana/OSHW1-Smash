@@ -1,0 +1,9 @@
+/a.out
+/.vscode
+/.vscode/*
+/.idea
+/.idea/*
+/cmake-build-debug
+/cmake-build-debug/*
+/.vscodetasks.exe
+/smash
